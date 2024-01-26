@@ -1,4 +1,4 @@
-# ShopStore
+# Sort by email and date (Asc, Desc)
 
 A React.js project test.
 ![Screenshot 2](./public/sticker.gif)
