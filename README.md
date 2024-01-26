@@ -1,8 +1,42 @@
-# React + Vite
+# ShopStore
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React.js project test.
+![Screenshot 2](./public/sticker.gif)
 
-Currently, two official plugins are available:
+## Technologies Used
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- **React.js**: A JavaScript library for building user interfaces.
+
+
+## Getting Started
+
+1. Clone the repository:
+
+    ```bash
+    git clone https://github.com/rezaansarirad/test.git
+    ```
+
+2. Install dependencies:
+
+    ```bash
+    npm install
+    ```
+
+3. Run the project:
+
+    ```bash
+    npm start
+    ```
+
+## Screenshots
+
+![Screenshot 1](./public/1.png)
+
+
+<!-- Add more screenshots if needed -->
+
+## Contributing
+
+Feel free to contribute to the project by opening issues or creating pull requests. Your feedback and suggestions are highly appreciated.
+
+Hope you enjoy.
